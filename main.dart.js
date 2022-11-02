@@ -15008,7 +15008,7 @@ var s=$.az
 s.IT(B.Cy)
 s.yj()},
 aok(){var s=null
-return A.a7r(s,new A.vI("images/test.riv",A.a(["Lotus"],t.s),B.uh,!0,s),s,s,300,s,s,300)},
+return A.a7r(s,new A.vI("assets/images/test.riv",A.a(["Lotus"],t.s),B.uh,!0,s),s,s,300,s,s,300)},
 E1:function E1(a){this.a=a},
 uK:function uK(a){this.a=a},
 K5:function K5(a){this.a=null
@@ -50568,7 +50568,7 @@ A.uK.prototype={
 aB(){return new A.K5(B.k)}}
 A.K5.prototype={
 X(a){var s=t.OQ
-return new A.vQ(new A.Fq(new A.Uv(),A.am(new A.aH(A.a([1,2,3],t.t),new A.a3y(),s),!0,s.h("bk.E")),300,1,3,16,16,10,10,null),null)}}
+return new A.vQ(new A.Fq(new A.Uv(),A.am(new A.aH(A.a([1,2,3],t.t),new A.a3y(),s),!0,s.h("bk.E")),300,1,3,10,10,10,10,null),null)}}
 A.a3y.prototype={
 $1(a){return A.aok()},
 $S:312}
